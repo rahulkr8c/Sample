@@ -4,8 +4,8 @@
 
   <groupId>com.example</groupId>
   <artifactId>sample</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <version>0.0.3-SNAPSHOT</version>
+  <packaging>jar</packaginga>
 
   <name>sample</name>
   <url>http://maven.apache.org</url>
@@ -23,3 +23,6 @@
     </dependency>
   </dependencies>
 </project>
+
+
+
